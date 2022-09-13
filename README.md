@@ -1,4 +1,7 @@
 # Coding-HackerRank
+I'm M.R.Meghana, a Competetive Programmer from Rajiv Gandhi University of Knowledge Technologies, R.K.Valley.
+
+
 Practised Questions from HackerRank
 
 Being an Intermediate Competitive Programmer, I think HackerRank guides a beginner so well. I have created this repositary to showcase my programs and for future reference.
